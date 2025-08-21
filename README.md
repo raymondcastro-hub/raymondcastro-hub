@@ -1,7 +1,7 @@
 # Hi, I'm Raymond 👋  
 
 I’m a sophomore Computer Science major at **Northampton Community College**.
-My primary programming language is **C++**, and I’m currently expanding my skills in **Python**, with additional experience to **HTML** and **CSS**.
+My primary programming language is **C++**, and I’m currently expanding my skills in **Python**, with additional experience in **HTML** and **CSS**.
 
 - **Nickname**: Ray
 - **Pronouns**: He/Him

@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Raymond 👋  
 
-<!--
-**raymondcastro-hub/raymondcastro-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a sophomore Computer Science major at **Northampton Community College**.
+My primary programming language is **C++**, and I’m currently expanding my skills in **Python**, with additional exposure to **HTML** and **CSS**.
 
-Here are some ideas to get you started:
+- Nickname: Ray
+- Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Hobbies & Interests
+- Reading
+- Working out
+- Gaming
+- Cooking & baking
+- Watching YouTube
+- Studying
+
+---
+
+## 💻 Programming Languages
+- **C++** (primary)
+- **Python** (currently learning)
+- **HTML** & **CSS** (beginner exposure)
+
+---
+
+## 🚀 What I’m Working On
+- Taking Codecademy courses to learn Git, the Command Line, & Python
+- Working toward my Associate’s degree in Computer Science
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/raymond-castro-466753359/)
+[Codecademy](https://www.codecademy.com/profiles/moray581)

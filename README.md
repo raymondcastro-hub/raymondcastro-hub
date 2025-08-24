@@ -31,6 +31,6 @@ My primary programming language is **C++**, and I’m currently expanding my ski
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect w/ Me
 - [LinkedIn](https://www.linkedin.com/in/raymond-castro-466753359/)
 - [Codecademy](https://www.codecademy.com/profiles/moray581)

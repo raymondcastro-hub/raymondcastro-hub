@@ -1,4 +1,4 @@
-# Hi, I'm Raymond 👋  
+# Hi, I'm Raymond |👋  
 
 I’m a sophomore Computer Science major at **Northampton Community College**.
 My primary programming language is **C++**, and I’m currently expanding my skills in **Python**, with additional experience in **HTML** and **CSS**.
@@ -8,7 +8,7 @@ My primary programming language is **C++**, and I’m currently expanding my ski
 
 ---
 
-## 🌟 Hobbies & Interests
+## 🌟| Hobbies & Interests
 - Reading
 - Working out
 - Gaming
@@ -18,19 +18,19 @@ My primary programming language is **C++**, and I’m currently expanding my ski
 
 ---
 
-## 💻 Programming Languages
+## 💻| Programming Languages
 - **C++** (primary)
 - **Python** (currently learning)
 - **HTML** & **CSS** (beginner level)
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀| What I’m Working On
 - Taking Codecademy courses on Git, the Command Line, and Python
 - Working toward an Associate’s degree in Computer Science
 
 ---
 
-## 📫 Connect w/ Me
+## 📫| Connect w/ Me
 - [LinkedIn](https://www.linkedin.com/in/raymond-castro-466753359/)
 - [Codecademy](https://www.codecademy.com/profiles/moray581)

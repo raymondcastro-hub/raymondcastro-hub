@@ -33,4 +33,5 @@ My primary programming language is **C++**, and I’m currently expanding my ski
 
 ## 📫| Connect w/ Me
 - [LinkedIn](https://www.linkedin.com/in/raymond-castro-466753359/)
+- [Handshake](https://app.joinhandshake.com/profiles/qjc5a6)
 - [Codecademy](https://www.codecademy.com/profiles/moray581)

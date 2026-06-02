@@ -26,8 +26,10 @@ My primary programming language is **C++**, and I’m currently expanding my ski
 ---
 
 ## 🚀| What I’m Working On
-- Taking Codecademy courses on Git, the Command Line, and Python
-- Working toward an Associate’s degree in Computer Science
+- Taking Codecademy courses on Python
+- Reviewing previous coursework from Northampton Community College
+- Studying upcoming material
+- Working on projects
 
 ---
 
